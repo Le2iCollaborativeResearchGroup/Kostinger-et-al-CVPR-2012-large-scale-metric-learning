@@ -11,8 +11,8 @@ Find the following information about this article:
 
 # Graphical Abstract
 
-![mn](images/D8_Graphical_Abstract.jpg)
-![mn2](images/D9_Graphical_Abstract.jpg)
+![Graphical Abstract 1](images/D8_Graphical Abstract.jpg)
+![Graphical Abstract 2](images/D9_Graphical Abstract.jpg)
 
 ---------------------------
 
